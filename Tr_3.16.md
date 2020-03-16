@@ -9,6 +9,7 @@
   * 页面名称中包括流程步骤：![页面名称中包括流程步骤](https://github.com/Pjx759/Web_Operations/blob/master/photo/titles/title1-3.png)
 ### 使用标题传达页面的内容和页面的结构
 * 使用小标题来对相关的段落进行分组，并且清晰简洁的描述每个分组段落。良好的分组标题相当于提供了内容大纲。
-  * 使用标题分类相关内容：![标题分类内容](https://github.com/Pjx759/Web_Operations/blob/master/photo/titles/title2.png)
+  * 使用标题分类相关内容：![标题分类内容](https://github.com/Pjx759/Web_Operations/blob/master/photo/titles/title2.png)  右侧为使用标题正确分类
 ### 让链接的文字有意义
 * 编写链接文字是可以描述链接目标的内容。要避免使用会产生歧义的文字，例如‘点击此处’或者‘阅读更多’。说明链接目标的相关信息，例如文档的类型和大小，比如‘Proposal Documents(RTF，20MB)’。
+  * 使用链接文本描述目标连接内容：![链接举例](https://github.com/Pjx759/Web_Operations/blob/master/photo/titles/title3.png)  右侧为正确描述
