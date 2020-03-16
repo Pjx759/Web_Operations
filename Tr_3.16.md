@@ -5,6 +5,8 @@
 * 对于每一个网页来说，提供一个简短的标题可以描述页面内容来区分其他的网页。这个页面标题通常是和页面的主要标题是相同的。会将独特的标题放在更靠前的位置；例如把页面的名字放在组织名字的前面。对于属于多步骤过程的页面，要将当前步骤加入页面标题中
 * 实例：页面标题
   * 主页标题：![主页标题](https://github.com/Pjx759/Web_Operations/blob/master/photo/titles/title1.png)
+  * 页面名称后接组织名称：![页面标题后接组织名称](https://github.com/Pjx759/Web_Operations/blob/master/photo/titles/title1-2.png)
+  * 页面名称中包括流程步骤：![页面名称中包括流程步骤](https://github.com/Pjx759/Web_Operations/blob/master/photo/titles/title1-3.png)
 ### 使用标题传达页面的内容和页面的结构
 * 使用小标题来对相关的段落进行分组，并且清晰简洁的描述每个分组段落。良好的分组标题相当于提供了内容大纲。
 ### 让链接的文字有意义
