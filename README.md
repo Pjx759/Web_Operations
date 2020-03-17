@@ -18,9 +18,9 @@
   * 使用标题分类相关内容：![标题分类内容](https://github.com/Pjx759/Web_Operations/blob/master/photo/titles/title2.png)  右侧为使用标题正确分类  
 更多信息
 * WCAG
-  * [标题和标签2.4.6](https://www.w3.org/WAI/WCAG21/quickref/#headings-and-labels)
-  * [段落标题2.4.10](https://www.w3.org/WAI/WCAG21/quickref/#section-headings)
-  * [信息和关联1.3.1](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)
+  * [标题和标签2.4.6](https://www.w3.org/WAI/WCAG21/quickref/#headings-and-labels)([理解2.4.6](https://www.w3.org/WAI/WCAG21/Understanding/headings-and-labels))
+  * [段落标题2.4.10](https://www.w3.org/WAI/WCAG21/quickref/#section-headings)([理解2.4.10](https://www.w3.org/WAI/WCAG21/Understanding/section-headings))
+  * [信息和关联1.3.1](https://www.w3.org/WAI/WCAG21/quickref/#info-and-relationships)((理解1.3.1)[https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships])
 * 用户故事
   * [用户在屏幕前如何使用标题导航](https://www.w3.org/WAI/people-use-web/user-stories/#accountant)
 ***
@@ -29,8 +29,8 @@
   * 使用链接文本描述目标连接内容：![链接举例](https://github.com/Pjx759/Web_Operations/blob/master/photo/titles/title3.png)  右侧为正确描述  
 更多信息
 * WCAG
-  * [链接的目的（在文章中）](https://www.w3.org/WAI/WCAG21/quickref/#link-purpose-in-context)
-  * [链接的目的（仅链接）](https://www.w3.org/WAI/WCAG21/quickref/#link-purpose-link-only)
+  * [链接的目的（在文章中）](https://www.w3.org/WAI/WCAG21/quickref/#link-purpose-in-context)([理解2.4.4](https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-in-context))
+  * [链接的目的（仅链接）](https://www.w3.org/WAI/WCAG21/quickref/#link-purpose-link-only)([理解2.4.9](https://www.w3.org/WAI/WCAG21/Understanding/link-purpose-link-only))
 ***
 ### 4.为图像编写有意义的文本替代品
 对于每个图像，编写提供图像信息或功能的可选文本。对于纯粹的装饰性图像，不需要编写替代文本。
