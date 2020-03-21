@@ -124,3 +124,12 @@ CPP：在发生车辆碰撞的情况下，公司指定的代表将寻求确定�
 1-3点：彭靖茜 181035022
 
 4-7点：罗佳莼 181042166
+
+***  
+### 网站分析
+* Ⅰ.页面标题
+  * 主标题![主要标题](https://github.com/Pjx759/Web_Operations/blob/master/photo/titles/step2/%E7%BD%91%E9%A1%B5%E6%A0%87%E9%A2%98.png)
+  * 组织标题在后![](https://github.com/Pjx759/Web_Operations/blob/master/photo/titles/step2/%E6%A0%87%E9%A2%982.png)
+* Ⅱ.提供明确指示![登录指示](https://github.com/Pjx759/Web_Operations/blob/master/photo/titles/step2/%E7%99%BB%E5%BD%95%E9%A1%B5.png)
+
+
