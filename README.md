@@ -133,5 +133,6 @@ CPP：在发生车辆碰撞的情况下，公司指定的代表将寻求确定�
 * Ⅱ.提供明确指示![登录指示](https://github.com/Pjx759/Web_Operations/blob/master/photo/titles/step2/%E7%99%BB%E5%BD%95%E9%A1%B5.png)
 * Ⅲ.保持内容简洁明了  图标指示①![图标指示](https://github.com/Pjx759/Web_Operations/blob/master/photo/titles/step2/%E5%9B%BE%E6%A0%872.png)
 * Ⅳ.图像有意义的文本替代  图像＋文本![](https://github.com/Pjx759/Web_Operations/blob/master/photo/titles/step2/%E5%9B%BE%E4%BE%8B.png)
+* Ⅴ.录制视频
 
 
