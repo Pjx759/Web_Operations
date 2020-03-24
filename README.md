@@ -130,9 +130,12 @@ CPP：在发生车辆碰撞的情况下，公司指定的代表将寻求确定�
 * Ⅰ.页面标题
   * 主标题![主要标题](https://github.com/Pjx759/Web_Operations/blob/master/photo/titles/step2/%E7%BD%91%E9%A1%B5%E6%A0%87%E9%A2%98.png)
   * 组织标题在后![](https://github.com/Pjx759/Web_Operations/blob/master/photo/titles/step2/%E6%A0%87%E9%A2%982.png)
+  * 用户可以明确的指导自己处于网站的什么位置
 * Ⅱ.提供明确指示![登录指示](https://github.com/Pjx759/Web_Operations/blob/master/photo/titles/step2/%E7%99%BB%E5%BD%95%E9%A1%B5.png)
+  * 用户可以知道自己需要提供什么来登录账户
 * Ⅲ.保持内容简洁明了  图标指示①![图标指示](https://github.com/Pjx759/Web_Operations/blob/master/photo/titles/step2/%E5%9B%BE%E6%A0%872.png)
 * Ⅳ.图像有意义的文本替代  图像＋文本![](https://github.com/Pjx759/Web_Operations/blob/master/photo/titles/step2/%E5%9B%BE%E4%BE%8B.png)
+  * 用户可以通过文字更好的理解图像，更方便的使用
 * Ⅴ.多媒体文字记录和字幕
   * 有字幕，方便用户观看
   * 有播放进度条
