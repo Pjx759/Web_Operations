@@ -134,8 +134,9 @@ CPP：在发生车辆碰撞的情况下，公司指定的代表将寻求确定�
 * Ⅲ.保持内容简洁明了  图标指示①![图标指示](https://github.com/Pjx759/Web_Operations/blob/master/photo/titles/step2/%E5%9B%BE%E6%A0%872.png)
 * Ⅳ.图像有意义的文本替代  图像＋文本![](https://github.com/Pjx759/Web_Operations/blob/master/photo/titles/step2/%E5%9B%BE%E4%BE%8B.png)
 * Ⅴ.多媒体文字记录和字幕
-  * 有字幕
+  * 有字幕，方便用户观看
   * 有播放进度条
   * 多媒体音频![音频截图](https://github.com/Pjx759/Web_Operations/blob/master/photo/titles/step2/%E9%9F%B3%E9%A2%91%E6%92%AD%E6%94%BE.png)
 * Ⅵ.链接文字有意义  提供有意义的信息![文字有效指引](https://github.com/Pjx759/Web_Operations/blob/master/photo/titles/step2/%E9%93%BE%E6%8E%A5%E6%8C%87%E5%BC%95.jpg)
+  * 指引用户点击原本的微博帖子
 
