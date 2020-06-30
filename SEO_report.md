@@ -10,21 +10,21 @@
 ## 二、当前状态
 > 使用了百度、bing、Google三个站长工具
 1. 加入站长认证
-  * 站长工具可以帮助优化网站()[]
-  * 站长工具帮助抓取页面[页面抓取数据](https://github.com/Pjx759/Web_Operations/blob/master/SEO_R_ph/%E6%8A%93%E5%8F%96%E7%BD%91%E9%A1%B51.png)  
+  * 站长工具可以帮助优化网站!(站长认证)[https://github.com/Pjx759/Web_Operations/blob/master/SEO_R_ph/%E7%AB%99%E9%95%BF%E8%AE%A4%E8%AF%81.png]
+  * 站长工具帮助抓取页面![页面抓取数据](https://github.com/Pjx759/Web_Operations/blob/master/SEO_R_ph/%E6%8A%93%E5%8F%96%E7%BD%91%E9%A1%B51.png)  
 2. SEO优化
   * **根据SEO评分，不断完善自己的SEO要素**  
   * 架构优化，根据关键词设计网站架构  
-  * 内容优化，考虑用户需求，针对用户撰写内容，发表原创文章会提高网站浏览量[发表文章数据](https://github.com/Pjx759/Web_Operations/blob/master/SEO_R_ph/%E5%8F%91%E8%A1%A8%E6%B5%81%E9%87%8F%E5%88%86%E6%9E%90.png)  
+  * 内容优化，考虑用户需求，针对用户撰写内容，发表原创文章会提高网站浏览量![发表文章数据](https://github.com/Pjx759/Web_Operations/blob/master/SEO_R_ph/%E5%8F%91%E8%A1%A8%E6%B5%81%E9%87%8F%E5%88%86%E6%9E%90.png)  
   * 内链优化，增添内链，帮助网站识别，可以通过面包屑导航、自动内链添加内链  
   * 外链：*现不太被引用*  
 ## 三、结果分析
 * 内容优化发表文章可以增加网站浏览量
 * 内链不会影响数据结果
-* 根据SEO提示优化网站，可以增添网站meta元素等信息提高SEO评分[SEO优化](https://github.com/Pjx759/Web_Operations/blob/master/SEO_R_ph/seo%E4%BC%98%E5%8C%96.png)  
+* 根据SEO提示优化网站，可以增添网站meta元素等信息提高SEO评分![SEO优化](https://github.com/Pjx759/Web_Operations/blob/master/SEO_R_ph/seo%E4%BC%98%E5%8C%96.png)  
 * 通过文章/页面可读性以及SEO评分完善，增加浏览数  
-SEO优化前[优化前](https://github.com/Pjx759/Web_Operations/blob/master/SEO_R_ph/%E4%BC%98%E5%8C%96%E4%BE%8B%E5%AD%90.png)  
-SEO优化后[优化后](https://github.com/Pjx759/Web_Operations/blob/master/SEO_R_ph/%E4%BC%98%E5%8C%96%E5%90%8E.png)
+SEO优化前![优化前](https://github.com/Pjx759/Web_Operations/blob/master/SEO_R_ph/%E4%BC%98%E5%8C%96%E4%BE%8B%E5%AD%90.png)  
+SEO优化后![优化后](https://github.com/Pjx759/Web_Operations/blob/master/SEO_R_ph/%E4%BC%98%E5%8C%96%E5%90%8E.png)
 
 
   
