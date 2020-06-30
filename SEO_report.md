@@ -10,7 +10,7 @@
 ## 二、当前状态
 > 使用了百度、bing、Google三个站长工具
 1. 加入站长认证
-  * 站长工具可以帮助优化网站!(站长认证)[https://github.com/Pjx759/Web_Operations/blob/master/SEO_R_ph/%E7%AB%99%E9%95%BF%E8%AE%A4%E8%AF%81.png]
+  * 站长工具可以帮助优化网站![站长认证](https://github.com/Pjx759/Web_Operations/blob/master/SEO_R_ph/%E7%AB%99%E9%95%BF%E8%AE%A4%E8%AF%81.png)
   * 站长工具帮助抓取页面![页面抓取数据](https://github.com/Pjx759/Web_Operations/blob/master/SEO_R_ph/%E6%8A%93%E5%8F%96%E7%BD%91%E9%A1%B51.png)  
 2. SEO优化
   * **根据SEO评分，不断完善自己的SEO要素**  
