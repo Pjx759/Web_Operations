@@ -12,10 +12,14 @@
 1. 加入站长认证
   * 站长工具可以帮助优化网站![站长认证](https://github.com/Pjx759/Web_Operations/blob/master/SEO_R_ph/%E7%AB%99%E9%95%BF%E8%AE%A4%E8%AF%81.png)
   * 站长工具帮助抓取页面![页面抓取数据](https://github.com/Pjx759/Web_Operations/blob/master/SEO_R_ph/%E6%8A%93%E5%8F%96%E7%BD%91%E9%A1%B51.png)  
-2. SEO优化
+  ![后续网页抓取](https://github.com/Pjx759/Web_Operations/blob/master/SEO_R_ph/%E7%BD%91%E7%AB%99%E7%8A%B6%E6%80%81.png)
+2. 网站抓取：上个星期三通过站长认证，并提交了链接
+  * 百度还未收录
+  * bing还未收录，但存在爬取数据
+3. SEO优化
   * **根据SEO评分，不断完善自己的SEO要素**  
   * 架构优化，根据关键词设计网站架构  
-  * 内容优化，考虑用户需求，针对用户撰写内容，发表原创文章会提高网站浏览量![发表文章数据](https://github.com/Pjx759/Web_Operations/blob/master/SEO_R_ph/%E5%8F%91%E8%A1%A8%E6%B5%81%E9%87%8F%E5%88%86%E6%9E%90.png)  
+  * 内容优化，考虑用户需求，针对用户撰写内容，**发表原创文章会提高网站浏览量**![发表文章数据](https://github.com/Pjx759/Web_Operations/blob/master/SEO_R_ph/%E5%8F%91%E8%A1%A8%E6%B5%81%E9%87%8F%E5%88%86%E6%9E%90.png)  
   * 内链优化，增添内链，帮助网站识别，可以通过面包屑导航、自动内链添加内链  
   * 外链：*现不太被引用*  
 ## 三、结果分析
